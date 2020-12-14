@@ -1,0 +1,26 @@
+{
+  "newUser": {
+    "username": "dansirdan",
+    "email": "dan@email.com",
+    "password": "password1234",
+    "photo": "somefile.jpg - TBD"
+  },
+  "newWithlist": {
+	"ownerId": 5,
+	"title": "Millions of Beaches, Beaches for me",
+	"description": "For 2021 when the beaches are open."
+  },
+  "newDestination": {
+	"withlist_id": 4,
+	"name": "South Beach",
+	"description": "I heard of this really small beach, just past...",
+	"photo": "somefile.jpg - TBD"
+  },
+  "updateDestination": {
+	"id": 5,
+	"withlist_id": 4,
+	"name": "South Beach",
+	"description": "This looks really cute! Let's go!",
+	"photo": "newFile.jpg - TBD"
+  }
+}
