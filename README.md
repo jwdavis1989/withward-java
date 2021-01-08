@@ -1,8 +1,8 @@
-# withward
+# Withward
 
 ## Description
 
-_withward_ is the combination of the word "with" and the native English suffix ["-ward"](https://www.dictionary.com/browse/-ward), which is defined as denoting spatial or temporal direction, as specified by the initial element, such as toward; seaward; afterward; and backward.
+_Withward_ is the combination of the word "with" and the native English suffix ["-ward"](https://www.dictionary.com/browse/-ward), which is defined as denoting spatial or temporal direction, as specified by the initial element, such as toward; seaward; afterward; and backward.
 
 For thousands of years, humans have traveled together to survive. If you are familiar with The Legend of Zelda, you may have come to know the quote, "It's dangerous to go alone! Take this." This [quote](https://en.wikipedia.org/wiki/It%27s_dangerous_to_go_alone!) appears when Link is given a sword from the unnamed old man inside of the first cave of the game. This sword becomes instrumental in his quest to defeat Ganon and rescue princess Zelda. So, how does this help me understand _withward_? I'm glad you asked...
 
